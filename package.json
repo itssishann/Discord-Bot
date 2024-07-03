@@ -1,0 +1,13 @@
+{
+  "name": "discordbot",
+  "version": "1.0.0",
+  "description": "Basic Discord Bot used for add and substract the points used to test the gameplay by admin",
+  "main": "index.js",
+  "author": "IshanGurjar",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.15.3",
+    "dotenv": "^16.4.5",
+    "mongoose": "^8.4.4"
+  }
+}
